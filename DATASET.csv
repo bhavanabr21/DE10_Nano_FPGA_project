@@ -1,4 +1,4 @@
-﻿Latitude,Longitude,Year,Month,Day,Temperature,Temp_MAX,Temp_MIN,Dew,Wind speed,Wind speed_MAX,Wind speed_MIN,Wind direction,Relative humidity,specfic humidity, Surface Pressure,Fire
+﻿Latitude,Longitude,Year,Month,Day,Temperature,Wind speed,Wind speed_MAX,Wind speed_MIN,Wind direction,Relative humidity,specfic humidity, Surface Pressure,Fire
 29.76,78.68,2021,1,24,10.12,17.34,5.76,-1.57,2.23,4.27,0.92,132.06,46.06,3.91,87.52,0
 29.42,79.09,2021,1,29,10.15,18.38,5.33,-5.26,2.27,4.3,0.86,187.5,35.19,2.87,89.45,0
 29.76,78.68,2021,1,31,10.15,17.8,5.09,-5.4,1.98,4.77,0.42,193.44,34.5,2.93,87.64,0
